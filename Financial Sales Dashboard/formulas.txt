@@ -1,0 +1,26 @@
+Contribution margin (CM), defined as selling price minus variable cost, 
+is a measure of the ability of a company to cover variable costs with revenue. 
+The amount leftover, the contribution, covers fixed costs or is profit.
+
+1. Contribution Margin = total Revenue – total Variable Costs.
+
+2. Revenue = Quantity * price 
+
+3. Net Sales = (Total Units Sold x Sale Per Unit Price) – Sales Returns – Allowances – Discounts
+
+
+
+-- (total revenue = (Total Units Sold x Sale Per Unit Price)
+-- sales return  = profit/total revenue  
+-- net sales revenue = Gross sales(revenue) – sales Returns – Allowances – Discounts
+   
+   Allowances: $100
+   Discounts: $1000
+   Net Sales or sales return: $88,400
+   Gross Sales: $90,000
+
+-- contribution = selling price - variable cost
+-- contribution % = contribution/net sales
+-- Total Variable Costs = Cost Per Unit x Total Number of Units.
+
+-- cost amount = cm/revenue

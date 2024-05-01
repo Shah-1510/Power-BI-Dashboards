@@ -1,0 +1,44 @@
+customer 
+- customer id
+- cutomer name
+- customer amount
+- order id
+- item id
+
+Item
+- Item id
+- customer id
+- Item Name
+- Item Category
+- item number
+- item description
+- item price
+- item qty
+- item discount
+- allowances
+
+Sales 
+- Sales person code
+- Financial Year
+- Sales Description
+
+
+Order
+- Order Id
+- order data
+- order description
+- Ship Date
+- ship to address
+- bill to address
+- delivery date
+- status
+
+vendor
+- vendor id
+- vendor name
+
+location
+- country
+- country code
+- regions
+- 

@@ -1,0 +1,82 @@
+Sales Sheet
+
+- Financial Year column
+- Quarter Column
+- Months column
+- Country Column (codes)
+- Category Column * 
+- selling price
+- cost per unit
+- quantity
+- discounts
+- allowances
+
+to find or generate 
+- variable cost
+- total revenue
+- contribution
+- contribution %
+- sales return
+
+
+World Sheet
+
+- Sales_person Code
+- revenue
+- Cm
+- revenue, cm (w.r.t to sales person and country wise)
+
+
+customer sheet
+
+- company names
+- financial year
+- quarters
+- months name
+- revenue & cm w.r.t quarters
+
+Item Sheet
+
+- customer id
+- customer name
+- ship to address
+- customer number
+- bill to address
+- document type
+- document number
+- item category code
+- item number
+- item description
+- sales description
+- unit price
+- qty
+- revenue
+- cm
+- cm %
+- cost amount
+
+
+Open order Sheet
+- customer name
+- order date
+- order description
+- document number
+- number *
+- dimension code *
+- planned delivery date
+- status
+- document type
+- customer Amount
+
+vendor Sheet
+- item name
+- item revenue
+- vendor names
+- vendor revenue
+- item qty
+
+- revenue + quantity (shows trend)
+- orders
+- financial year 
+- quarter 
+- months name
